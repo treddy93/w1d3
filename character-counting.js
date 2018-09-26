@@ -11,4 +11,3 @@ function countLetters(stringToBeCounted) {
   }
   return object;
 }
-console.log(countLetters('water bottle'));
